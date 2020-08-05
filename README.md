@@ -75,4 +75,4 @@ Javascript
 
 ReactJS
 
-HTML/CSS
+HTML / CSS
